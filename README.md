@@ -1,7 +1,7 @@
 # Assignment 07
 
 ## Reading
-8/Motion: Move and choreograph shapes.
+8/Motion: Move and choreograph shapes.  
 13/Extend: Introduction Only
 
 ## Music "Video"
