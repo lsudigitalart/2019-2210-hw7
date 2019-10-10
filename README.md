@@ -1,8 +1,8 @@
 # Assignment 07
 
 ## Reading
-8/Motion: Move and choreograph shapes.  
-13/Extend: Introduction Only
+- 8/Motion: Move and choreograph shapes.
+- 13/Extend: Introduction Only
 
 ## Music "Video"
 Create an animation between 5 and 30 seconds inspired by music.
