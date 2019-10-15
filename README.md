@@ -8,7 +8,7 @@
 Create an animation between 5 and 30 seconds inspired by music.
 
 ## Tech Notes
-Download p5.sound library from here: https://raw.githubusercontent.com/processing/p5.js-sound/master/lib/p5.sound.js
+Download p5.sound library from here: https://raw.githubusercontent.com/processing/p5.js-sound/master/lib/p5.sound.js. Visti the URL in a browser and then go to `File > Save Page As`. Optionally, you can use the following in bash: `curl -O https://raw.githubusercontent.com/processing/p5.js-sound/master/lib/p5.sound.js`.
 
 ## Inspiration
 - Young-Hae Chang Heavy Industries, Dakota, http://www.yhchang.com/DAKOTA.html.
