@@ -7,6 +7,9 @@
 ## Music "Video"
 Create an animation between 5 and 30 seconds inspired by music.
 
+## Tech Notes
+Download p5.sound library from here: https://raw.githubusercontent.com/processing/p5.js-sound/master/lib/p5.sound.js
+
 ## Inspiration
 - Young-Hae Chang Heavy Industries, Dakota, http://www.yhchang.com/DAKOTA.html.
 - Chuck Jones and Maurice Noble, The Dot and the Line, 1965, https://www.youtube.com/watch?v=OmSbdvzbOzY.
